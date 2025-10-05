@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Hero() {
   return (
-    <section className="relative w-full h-[900px] md:h-[90vh] bg-[url('assets/image.jpg')] bg-cover bg-center">
+    <section className="relative w-full h-[900px] md:h-[90vh] bg-[url('/assets/image.jpg')] bg-cover bg-center">
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/50"></div>
 

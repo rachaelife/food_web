@@ -63,8 +63,8 @@ export default function Navbar() {
 
       {/* Top Info Bar */}
       <div className="hidden md:flex bg-white border-b border-black/20">
-        <div className="max-w-[1440px] h-[54px] mx-auto flex justify-between items-center pl-[62px] pr-[64px] text-gray-700 text-sm">
-          <div className="flex gap-8">
+        <div className="max-w-[1440px] h-[54px] mx-auto flex justify-between gap-5 items-center pl-[62px] pr-[64px] text-gray-700 text-sm">
+          <div className="flex gap-12">
             <span>Email: info@ddsgnr.com</span>
             <span>Phone: +956 742 453 678</span>
             <span>
