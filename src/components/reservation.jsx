@@ -147,7 +147,7 @@ export default function ReservationSection() {
       {/* Image */}
       <div className="w-full lg:w-[616px] h-auto lg:h-[838px]">
         <img
-          src="public/assets/87aca634df49c69634f8e5d27f1b0ba886998db0.jpg"
+          src="assets/87aca634df49c69634f8e5d27f1b0ba886998db0.jpg"
           alt="Reservation Dish"
           className="w-full h-full object-cover rounded-md"
         />

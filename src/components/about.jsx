@@ -35,7 +35,7 @@ export default function AboutSection() {
         {/* Image */}
         <div className="w-full lg:w-[729px]">
           <img
-            src="public/assets/31632d08fe95e1819f7aabbcb1d0ae4a4e6c45a5.jpg"
+            src="assets/31632d08fe95e1819f7aabbcb1d0ae4a4e6c45a5.jpg"
             alt="Delicious Food"
             className="w-full h-auto lg:h-[640px] object-cover rounded-md"
           />
@@ -47,7 +47,7 @@ export default function AboutSection() {
           {/* Image Container */}
           <div className="flex-1 flex items-center justify-center h-[400px] md:full">
             <img
-              src="public/assets/image.jpg"
+              src="assets/image.jpg"
               alt="About us"
               className="w-full h-full object-cover rounded-md shadow-md"
             />
